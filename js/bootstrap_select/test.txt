@@ -1,0 +1,10 @@
+How to use?
+===========
+
+You can import Bootstrap Select from ``js.bootstrap_select`` and ``need`` it where you want
+these resources to be included on a page::
+
+  >>> from js.bootstrap_select import bootstrap_select
+  >>> bootstrap_select.need()
+
+.. _`fanstatic`: http://fanstatic.org

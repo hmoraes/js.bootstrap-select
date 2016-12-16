@@ -1,0 +1,3 @@
+recursive-include js/bootstrap_select/resources *.js *.css *.map
+recursive-include js/bootstrap_select *.txt
+include *.txt *.rst

@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+1.12.1 (2016-12-16)
+==================
+
+- Created a fanstatic for bootstrap-select (https://github.com/silviomoreto/bootstrap-select)

@@ -22,7 +22,7 @@ setup(
     classifiers=[],
     keywords='fanstatic twitter bootstrap select',
     author='Heberte Fernandes de Moraes',
-    url='https://github.com/hmoraes/js.bootstrap_select',
+    url='https://github.com/hmoraes/js.bootstrap-select',
     author_email='brebete@gmail.com',
     license='BSD',
     packages=find_packages(),

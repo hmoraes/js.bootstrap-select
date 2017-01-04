@@ -30,7 +30,7 @@ ALL_LANGS = ['ar_AR', 'bg_BG', 'cro_CRO',
              'zh_CN', 'zh_TW', ]
 
 
-def bootstrap_select_i18n_css(lang=None):
+def bootstrap_select_i18n_js(lang=None):
     if lang in ALL_LANGS:
         return Resource(
             library, 'js/i18n/defaults-%s.js' % lang,
@@ -46,4 +46,4 @@ def bootstrap_select_i18n_css(lang=None):
         return Group(all_langs)
 
 
-bootstrap_select_i18n_all_css = bootstrap_select_i18n_css()
+bootstrap_select_i18n_all_js = bootstrap_select_i18n_js()
